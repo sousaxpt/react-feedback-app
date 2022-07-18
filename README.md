@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview
 
-[https://scintillating-bavarois-0a62c2.netlify.app/](netlify)
+[netlify link](https://scintillating-bavarois-0a62c2.netlify.app/)
